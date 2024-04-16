@@ -1,8 +1,8 @@
 {
   "name": "rest-app",
+  "homepage":"https://sonum-mandloi.github.io/Food-Website",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://sonum-mandloi.github.io/Food-Delivery",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.17.0",
